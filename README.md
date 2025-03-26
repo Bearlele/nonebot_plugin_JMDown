@@ -14,6 +14,9 @@ JMDown 基于 Nonebot2 + OneBot 自动下载 JM 本子并发送到 QQ 群聊。�
 ```
 配置指南请参考：[配置文件指南](https://github.com/hect0x7/JMComic-Crawler-Python/blob/master/assets/docs/sources/option_file_syntax.md)
 
+## 解密密码
+密码就是本子的id，jm114514密码就是114514
+
 ## 使用库
 ```python
 pip install jmcomic
