@@ -24,8 +24,8 @@ pip install hashlib
 pip install PyPDF2
 pip install os
 pip install nonebot2
-pip install nonebot-adapter-onebot
-pip install nonebot-plugin-localstore
+pip install nonebot_adapter_onebot
+pip install nonebot_plugin_localstore
 ```
 
 ## 鸣谢
